@@ -135,7 +135,28 @@ nav a{
     width: 70%;
     margin: auto;
 }
-.third-all{
+#third{
+    background-position: center;
+    background-size: cover;
     background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-search-2.jpg?id=1538)
+}
+.third-all{
+   padding: 2rem;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   
+}
+.third-all h6{
+    font-size: 60px;
+    margin-left: 15rem
+}
+.third-all a{
+    color:#f76570;
+    margin-right: 20rem;
+    background-color: #fff;
+    padding: 20px 60px;
+    border-radius: 30px;
+
 }
 
